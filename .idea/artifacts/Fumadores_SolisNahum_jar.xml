@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Fumadores_SolisNahum:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Fumadores_SolisNahum_jar</output-path>
+    <root id="archive" name="Fumadores_SolisNahum.jar">
+      <element id="module-output" name="Fumadores_SolisNahum" />
+    </root>
+  </artifact>
+</component>
